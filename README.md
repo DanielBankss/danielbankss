@@ -1,16 +1,21 @@
-### Hi there 👋
+### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hey! most people call me Dan! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<!--
-**DanielBankss/danielbankss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 My name is Daniel but most people refer to me as Dan :)
+- 🌱 My **favourite** programming languages of which i use are:
+    - *JavaScript :)*
+    - *TypeScript*
+    - *Python* 
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 I'm from the **United Kingdom (UK)**
+- 📫 You can contact me on discord: **Dann#7822**
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Github Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=DanielBankss&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+# Github Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielBankss&show_icons=true&count_private=true&theme=react)
+
+
+### Programming Language Uses (Only on my public repos (i mostly only use typescript on here!))
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielBankss&theme=react" />
