@@ -8,11 +8,6 @@
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 I'm from the **United Kingdom (UK)**
 - 📫 You can contact me on discord: **Dann#7822**
 
-
-# Github Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=DanielBankss&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 # Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielBankss&show_icons=true&count_private=true&theme=react)
 
