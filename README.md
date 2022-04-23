@@ -10,6 +10,7 @@ I've been programming for roughly 5 years now! Beginning with the basic markup l
 * ✉️  You can contact me at [danielbankscoding@gmail.com](mailto:danielbankscoding@gmail.com)
 * 🧠  I'm learning Software Engineering
 * ⚡  I spend all my days programming basically..
+* 💝  <a href="https://github.com/AschBanks" target="_blank" rel="noreferrer">@AschBanks</a>
 
 <a href="https://www.twitter.com/YTDaann" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/YTDaann?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
