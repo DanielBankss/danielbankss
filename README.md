@@ -8,7 +8,7 @@ I've been programming for roughly 5 years now! Beginning with the basic markup l
 
 * 🌍  I'm based in England
 * ✉️  You can contact me at [danielbankscoding@gmail.com](mailto:danielbankscoding@gmail.com)
-* 🧠  I'm learning Software Engineering
+* 🧠  I'm currently learning C++
 * ⚡  I spend all my days programming basically..
 * 💝  <a href="https://github.com/AschBanks" target="_blank" rel="noreferrer">@AschBanks</a>
 
