@@ -12,10 +12,10 @@ I've been programming for roughly 5 years now! Beginning with the basic markup l
 * ⚡  I spend all my days programming basically..
 * 💝  <a href="https://github.com/AschBanks" target="_blank" rel="noreferrer">@AschBanks</a>
 
-<a href="https://www.twitter.com/YTDaann" target="_blank" rel="noreferrer"><img
+<!-- <a href="https://www.twitter.com/YTDaann" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/YTDaann?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.twitch.tv/deesandro" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/deesandro?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
+src="https://img.shields.io/twitch/status/deesandro?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a> -->
 ### Skills
 
 <p align="left">
