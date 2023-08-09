@@ -4,7 +4,7 @@ Hi 👋 My name is Daniel Banks
 Developer
 -----------------
 
-I've been programming for roughly 5 years now! Beginning with the basic markup languages such as HTML, CSS, etc. And then progressing into making them sites interactive through the use of JavaScript. Recently, I've been progressing into JS frameworks such as React and NextJS to further improve the overall performance of the sites. I'm also interested in Software engineering of which I am beginning to look into and trying to wrap my head around!
+I've been programming for roughly 5 years now! Beginning with the basic markup languages such as HTML, CSS, etc. And then progressing into making them sites interactive through the use of JavaScript. Recently, I've been progressing into JS frameworks such as React and NextJS to further improve the overall performance of the sites.
 
 * 🌍  I'm based in England
 * ✉️  You can contact me at [danielbankscoding@gmail.com](mailto:danielbankscoding@gmail.com)
