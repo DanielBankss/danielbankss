@@ -4,11 +4,11 @@ Hi 👋 My name is Daniel Banks
 Developer
 -----------------
 
-I've been programming for roughly 5 years now! Beginning with the basic markup languages such as HTML, CSS, etc. And then progressing into making them sites interactive through the use of JavaScript. Recently, I've been progressing into JS frameworks such as React and NextJS to further improve the overall performance of the sites.
+I've been programming for roughly 7 years now! Beginning with the basic markup languages such as HTML, CSS, etc. And then progressing into making them sites interactive through the use of JavaScript. Recently, I've been progressing into JS frameworks such as React and NextJS to further improve the overall performance of the sites.
 
 * 🌍  I'm based in England
 * ✉️  You can contact me at [danielbankscoding@gmail.com](mailto:danielbankscoding@gmail.com)
-* 🧠  I'm currently learning C++
+* 🧠  I'm currently creating games in Unreal Engine
 
 <!-- <a href="https://www.twitter.com/YTDaann" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/YTDaann?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
