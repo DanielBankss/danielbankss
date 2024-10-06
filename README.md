@@ -1,6 +1,6 @@
-My hobby is Game Development within Unreal Engine, if you'd like to learn more about this check out: https://shortdust.games/
-
 <br/>
+
+# Daniel Banks
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/devdannb?style=social)](https://twitter.com/DevDannB)
 [![Linkedin Badge](https://img.shields.io/badge/-dannybanks-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danny-banks/)](https://www.linkedin.com/in/danny-banks/)
