@@ -20,10 +20,10 @@
       </a>
     </td>
     <td align="center">
-      <strong>Portfolio @ <a href="https://dannb.online/">dannb.online</a></strong>
+      <strong>Portfolio @ <a href="https://dannb.online/">dann.lol</a></strong>
       <br/><br/>
       <a href="https://dannb.online/">
-        <img src="https://cdn.dbimg.app/ZdDC6nnV.png" width="500" alt="Daniel Banks Portfolio">
+        <img src="https://cdn.dbimg.app/ShhMc1GZ.png" width="500" alt="Daniel Banks Portfolio">
       </a>
     </td>
   </tr>
